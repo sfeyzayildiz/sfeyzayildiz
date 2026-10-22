@@ -3,6 +3,6 @@
   <text x="28" y="48" fill="#F2F2F2" font-size="18" font-weight="600">mahmutbey-traffic-forecast</text>
   <text x="532" y="48" fill="#5A5F66" font-size="11" text-anchor="end">in progress</text>
   <text x="28" y="86" fill="#9AA0A8" font-size="13">1–3 hour traffic speed forecasts with uncertainty</text><text x="28" y="106" fill="#9AA0A8" font-size="13">bands for a major istanbul junction. leak-free</text><text x="28" y="126" fill="#9AA0A8" font-size="13">pipeline, ablations, walk-forward validation.</text>
-  <text x="28" y="160" fill="#4C8DFF" font-size="13">forecasts 1–3 h ahead · 90% intervals</text>
+  <text x="28" y="160" fill="#4C8DFF" font-size="13">MAE 2.7 km/h · 1 h ahead · calibrated intervals</text>
   <text x="532" y="160" fill="#5A5F66" font-size="11" text-anchor="end">lstm · xgboost · mlflow</text>
 </svg>
