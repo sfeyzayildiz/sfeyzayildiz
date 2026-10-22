@@ -18,6 +18,8 @@ next     → data engineering on istanbul's live bus data
   <a href="https://github.com/sfeyzayildiz/Akbank-Makine-Ogrenmesi-Bootcamp"><img src="assets/project-akbank.svg" alt="akbank-ml-bootcamp" width="49%"></a>
 </p>
 
+<sub>→ <a href="https://mahmutbey-traffic.streamlit.app">live demo: mahmutbey traffic forecast</a></sub>
+
 <br>
 
 <sub><code>python · pandas · tensorflow · xgboost · scikit-learn · mlflow · docker · git</code></sub>
