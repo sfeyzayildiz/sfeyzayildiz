@@ -5,13 +5,6 @@
 Physics engineering student at İstanbul Medeniyet University.
 I work with real-world data, mostly time series from Istanbul, and like turning them into forecasts that are honest about their uncertainty.
 
-```text
-latest   → kap-triage: local llm triage of borsa istanbul disclosures, error rate measured
-now      → forecasting traffic speed at mahmutbey junction, 1–3 hours ahead
-learning → mlops: docker, mlflow, ci/cd
-next     → data engineering on istanbul's live bus data
-```
-
 <br>
 
 <p>
