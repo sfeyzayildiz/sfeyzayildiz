@@ -1,9 +1,9 @@
-<img src="assets/header.svg" alt="Sümmeyye Feyza Yıldız — physics engineering, data and machine learning, Istanbul" width="100%">
+<img src="assets/header.svg" alt="Sümmeyye Feyza Yıldız — physics engineering, data, LLMs and time series, Istanbul" width="100%">
 
 <br>
 
 Physics engineering student at İstanbul Medeniyet University.
-I work with real-world data, mostly time series from Istanbul, and like turning them into forecasts that are honest about their uncertainty.
+Interested in real-world data, local LLMs and time series, and especially in one question: how do we know a model's answer is right?
 
 <br>
 
